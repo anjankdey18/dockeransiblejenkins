@@ -51,7 +51,9 @@ to use/get the docker group restart jenkins using sudo service jenkins restart
 make sure docker autostart when jenkins reboot using sudo chkconfig docker on for ubuntu and for centos: sudo systemctl enable docker and start docker: sudo systemctl start docker
 
 
+for docker push:
 
+create password with script
 
 
 
