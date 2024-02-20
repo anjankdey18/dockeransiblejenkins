@@ -1,4 +1,4 @@
-# django_ci_cd
+# jenkins pipeline setup
 
 ##for everybody Youtube video link: https://www.youtube.com/watch?v=Sl94H5e7MPw
 
