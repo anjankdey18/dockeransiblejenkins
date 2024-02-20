@@ -15,7 +15,6 @@ when it is activate successfully you will be able to see
 (env) [ans@centos9ansmaster django_cicd]$ 
 
 Installing an official release with pip¶
-This is the recommended way to install Django.
 
 1. Install pip. The easiest is to use the standalone pip installer. If your distribution already has pip installed, you might need to update it if it’s outdated. If it’s outdated, you’ll know because installation won’t work.
 
