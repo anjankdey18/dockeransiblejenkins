@@ -21,7 +21,7 @@
         state: present
     - name: Start the container
       docker_container:
-        name: anjandey18
+        name: mymvncontainer
         image: "anjandey18/mymvnimage:{{DOCKER_TAG}}"
         state: started
         published_ports:
